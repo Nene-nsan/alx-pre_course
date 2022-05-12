@@ -1,1 +1,1 @@
-get pull origin main
+git pull origin master
